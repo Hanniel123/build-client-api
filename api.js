@@ -1,7 +1,7 @@
 const api = {
 
     login: {
-        url: 'auth/login/',
+        path: 'auth/login/',
         post: {
             onResponse: {
                 // Main response handler
